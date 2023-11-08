@@ -34,7 +34,7 @@ to my personal GitHub profile!
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codinginbulk&label=Profile%20views&color=0e75b6&style=flat" alt="codinginbulk" /> </p>
 </div>
 
 <div align="center">
